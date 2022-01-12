@@ -28,5 +28,13 @@ The analysis of the election show that:
     - Candidate x, who received x% of the vote and y number of votes
 
 ## Challenge Overview
+The Colorado Election commission has requested:
+    - The voter turnout for each county
+    - The percentage of votes from each county out of the total count
+    - The county with the highest turnout
+   
+The purpose of this project is to provide these metrics to the commission by using Python to extract the information from the CSV file and write it in a text file to present to the commission.
+    
+
 
 ## Challenge Summary
