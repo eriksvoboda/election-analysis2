@@ -38,3 +38,27 @@ The purpose of this project is to provide these metrics to the commission by usi
 
 
 ## Challenge Summary
+
+## OVerview of Election Audit
+
+## Election-Audt Results
+
+    - How many votes were cast in this congressional election?
+        - Answer
+    - Breakdown of total votes and percent of votes by county
+        -
+        -
+        -
+    - The county with the largest number of votes was:
+        -
+    - Number of votes and percent of votes by candidate
+        -
+        -
+        -
+    - The winning candidate, their vote count, and their percent of votes was:
+        -
+        -
+        -
+        
+## Election-Audit Summary
+        
