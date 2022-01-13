@@ -39,7 +39,7 @@ The purpose of this project is to provide these metrics to the commission by usi
 
 ## Challenge Summary
 
-## OVerview of Election Audit
+## Overview of Election Audit
 
 ## Election-Audt Results
 
