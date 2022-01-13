@@ -62,3 +62,4 @@ The purpose of this project is to provide these metrics to the commission by usi
         
 ## Election-Audit Summary
         
+Include a pic of the final output and probably some snippits of the code itself.
