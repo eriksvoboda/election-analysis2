@@ -45,38 +45,37 @@ Below is the a photo of the election results as saved in the text file as well a
 
 ![](/Resources/election_analysis_output.png)
 
-# Add our dependencies.
+    # Add our dependencies.
 import csv
 import os
 
-# Add a variable to load a file from a path.
+    # Add a variable to load a file from a path. And adding a variable to save the file to a path.
 file_to_load = os.path.join("Resources", "election_results.csv")
-# Add a variable to save the file to a path.
 file_to_save = os.path.join("analysis", "election_analysis.txt")
 
-# Initialize a total vote counter.
+    # Initialize a total vote counter.
 total_votes = 0
 
-# Candidate Options and candidate votes.
+    # Candidate Options and candidate votes.
 candidate_options = []
 candidate_votes = {}
 
-# 1: Create a county list and county votes dictionary.
+    # 1: Create a county list and county votes dictionary.
 county_list = []
 county_votes = {}
 
-# Track the winning candidate, vote count and percentage
+    # Track the winning candidate, vote count and percentage
 winning_candidate = ""
 winning_count = 0
 winning_county = 0
 winning_percentage = 0
 winning_county_percent = 0
 
-# 2: Track the largest county and county voter turnout.
+    # 2: Track the largest county and county voter turnout.
 largest_county_turnout = ""
 county_voter_turnout = 0
 
-# Read the csv and convert it into a list of dictionaries
+    # Read the csv and convert it into a list of dictionaries
 with open(file_to_load) as election_data:
     reader = csv.reader(election_data)
 
