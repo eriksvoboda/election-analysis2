@@ -37,4 +37,4 @@ The Colorado Election commission has requested:
         
 ## Election-Audit Summary
         
-1[](/Resources/election_analysis_output.png)
+![](/Resources/election_analysis_output.png)
