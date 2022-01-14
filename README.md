@@ -1,13 +1,12 @@
 # Election_Analysis
 
 ## Project Overview
-A Colorado Board of Elections employee has given you the following tasks to complete the election audit of a recent local congressional election. 
+In addition to presenting the number of votes by candidate the election commisson is interested in knowing the results by county. The purpose of this project is to provide the metrics, listed below, to the commission by using Python to extract the information from the CSV file and write it in a text file to present to the commission.
 
-1. Calculate the total number of votes cast.
-2. Get a complete list of candidates who received votes.
-3. Calculate the total number of voteseach candidate received.
-4. Calculate the percentage of votes each candidate won.
-5. Determine the winner of the election based on popular vote.
+The Colorado Election commission has requested:
+    - The voter turnout for each county
+    - The percentage of votes from each county out of the total count
+    - The county with the highest turnout
 
 ## Resources
 - Data Source: election_results.csv
@@ -30,12 +29,9 @@ The analysis of the election show that:
 ## Challenge Overview
 
 ## Purpose of Project
-The purpose of this project is to provide these metrics, below, to the commission by using Python to extract the information from the CSV file and write it in a text file to present to the commission.
 
-The Colorado Election commission has requested:
-    - The voter turnout for each county
-    - The percentage of votes from each county out of the total count
-    - The county with the highest turnout
+
+
 
 ## Challenge Summary
 
