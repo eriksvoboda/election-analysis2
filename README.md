@@ -1,18 +1,20 @@
 # Election_Analysis
 
 ## Project Overview
-In addition to presenting the number of votes by candidate the election commisson is interested in knowing the results by county. The purpose of this project is to provide the metrics, listed below, to the commission by using Python to extract the information from the CSV file and write it in a text file to present to the commission.
+In addition to presenting the number of votes by candidate, the election commisson is interested in knowing the results by county. The purpose of this project is to provide the metrics, listed below, to the commission by using Python to extract the information from the CSV file and write it in a text file to present to the commission.
 
 The Colorado Election commission has requested:
     - The voter turnout for each county
     - The percentage of votes from each county out of the total count
     - The county with the highest turnout
 
-## Resources
+## Resources used in this project
 - Data Source: election_results.csv
 - Software: Python 3.7.6, Visual Studio Code, 1.38.1
 
 ## Election-Audt Results
+
+Below are the results of the election audit; this includes the total votes, votes by candidate, votes by county, county with the largest turnout, and the election winner.
 
     - How many votes were cast in this congressional election?
         - 369,71 total votes
