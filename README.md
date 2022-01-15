@@ -10,7 +10,7 @@ The Colorado Election commission has requested:
 
 ## Resources used in this project
 - Data Source: election_results.csv
-- Software: Python 3.7.6, Visual Studio Code, 1.38.1
+- Software: Python 3.7.6, Visual Studio Code 1.38.1
 
 ## Election Audt Results
 
