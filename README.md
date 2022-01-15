@@ -12,7 +12,7 @@ The Colorado Election commission has requested:
 - Data Source: election_results.csv
 - Software: Python 3.7.6, Visual Studio Code 1.38.1
 
-## Election Audt Results
+## Election Audit Results
 
 Below are the results of the election audit; this includes the total votes, votes by candidate, votes by county, county with the largest turnout, and the election winner.
 
